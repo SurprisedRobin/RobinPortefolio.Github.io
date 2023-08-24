@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\images"
   ],
-  "SelectedNode": "\\C:\\Users\\robin\\Source\\Repos\\RobinPortefolio.Github",
+  "SelectedNode": "\\images",
   "PreviewInSolutionExplorer": false
 }
